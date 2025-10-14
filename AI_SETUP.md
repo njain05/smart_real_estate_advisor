@@ -6,7 +6,7 @@
 Create a file called `.env.local` in your project root (same folder as `package.json`) and add:
 
 ```bash
-GOOGLE_AI_API_KEY=AIzaSyDn0a2tnhmVd-_tUbPRrf6eiFJD4jHLdUY
+GOOGLE_AI_API_KEY=""
 ```
 
 ### 2. Install Dependencies
